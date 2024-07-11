@@ -6,7 +6,7 @@ const games = [
     },
      {
         name: "Dark Souls II",
-        image: "images/dark_souls_1.jpg",
+        image: "images/dark_souls_2.jpg",
         description: "Dark Souls, Part 2"
     },
     // Добавьте здесь свои игры
