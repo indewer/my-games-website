@@ -1,8 +1,8 @@
 const games = [
     {
-        name: "Игра 1",
-        image: "images/image1.jpg",
-        description: "Описание игры 1"
+        name: "Dark Souls (1)",
+        image: "images/dark_souls_1.jpg",
+        description: "Dark Souls, Part 1"
     },
     {
         name: "Игра 2",
